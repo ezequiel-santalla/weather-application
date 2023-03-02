@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-application/static/css/main.fc95e0f4.css",
+    "main.js": "/weather-application/static/js/main.ca6be249.js",
+    "static/media/bg-hot.jpg": "/weather-application/static/media/bg-hot.e565ad6a386dcfdbe0c4.jpg",
+    "static/media/bg-cold.jpg": "/weather-application/static/media/bg-cold.8cc486b89e28093f2a8f.jpg",
+    "index.html": "/weather-application/index.html",
+    "main.fc95e0f4.css.map": "/weather-application/static/css/main.fc95e0f4.css.map",
+    "main.ca6be249.js.map": "/weather-application/static/js/main.ca6be249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc95e0f4.css",
+    "static/js/main.ca6be249.js"
+  ]
+}
